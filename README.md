@@ -6,8 +6,8 @@ This repository contains the coding materials I used in reading and analyzing da
 
 
 ## FINDINGS
-   **1**) This is continuous decrease in natal deaths in the world. Technological innovations in medicine is one of the reasons for this             decline. Here is the plot that shows it
-  ![](https://github.com/EdidiongEsu/child-mortality/blob/master/Pictures/Global.jpeg)
+   **1**) This is continuous decrease in natal deaths in the world. 
+    ![](https://github.com/EdidiongEsu/child-mortality/blob/master/Pictures/Global.jpeg)
     
    **2**) There is a quick decline from 2006 - 2012 in post neonatal deaths due to malaria in Nigeria. 
     ![](https://github.com/EdidiongEsu/child-mortality/blob/master/Pictures/Nigeria.jpeg)
